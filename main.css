@@ -1,8 +1,37 @@
-.td1{
-	width:50px;
-	height: 50px;
-}
- .button {
-	padding-top: 0px;
-	padding-left: 30px;
-}
+	
+	#body{
+		background-image: url("imagenes/fondo.jpg");
+		background-attachment: fixed;
+	}
+	img{
+		width: 30px;
+		height: 30px;
+	}
+	
+	.table1{
+		border-spacing: 0px;
+	}
+	 .button {
+		padding-top: 0px;
+		padding-left: 30px;
+	}
+	.td1{
+		width: 40px;
+		height: 40px;
+	}
+	.mariobros{
+		width: 40px;
+		height: 40px;
+	}
+	
+	}
+	#botones{
+		padding-top: 20px;
+	}
+	/*estilo al titulo*/
+	h1{
+		font-family: 'Bree Serif', serif;
+font-family: 'Saira', sans-serif;
+color:#F4FA58;
+	}
+	
